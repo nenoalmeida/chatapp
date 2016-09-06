@@ -1,4 +1,7 @@
-# Chatapp
+# Elixir/Phoenix Chat Application
+
+ This is my first project using the framework Phoenix. The aim is to do an Chat application.
+
 
 To start your Phoenix app:
 
@@ -18,3 +21,10 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
+
+Thanks!
+
+Twitter
+Medium
+Linkedin
