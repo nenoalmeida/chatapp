@@ -1,4 +1,19 @@
-<h1>Phoenix ChattApp</h1>
+<h1>Phoenix ChattApp!</h1>
+<script type="text/javascript">
+  $(functional() {
+    var chatbox = $("#chatbox");
+    var form = $("form");
+    var username = $(#username);
+    var message = $(#message);
+    
+    form.on ("submit", functional(){
+      alert(username.val() + ": " + message.val ());
+      return false;
+    })
+  })
+  
+</script>
+
 
 <pre id="chatbox" style="height: 100px;">
 </pre>
