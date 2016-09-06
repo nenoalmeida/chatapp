@@ -1,1 +1,17 @@
 <h1>Phoenix ChattApp</h1>
+
+<pre id="chatbox" style="height: 100px;">
+</pre>
+
+<form>
+  <label for="username">Username: </a></label>
+  <input type="text" id="username" />
+  
+  <br>
+  
+  <label for="message">Message: </a></label>
+  <input type="text" id="message" />
+  
+  <input type="submit" />
+  
+</form>
