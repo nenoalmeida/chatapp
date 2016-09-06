@@ -39,7 +39,9 @@ defmodule Chatapp.Mixfile do
      {:gettext, "~> 0.11"},
      {:cowboy, "~> 1.0"}]
   end
-
+    defp deps do
+        [{:inch_ex, only: :docs}]
+    end
   # Aliases are shortcuts or tasks specific to the current project.
   # For example, to create, migrate and run the seeds file at once:
   #
