@@ -1,3 +1,6 @@
+
+[![Inline docs](http://inch-ci.org/github/rrrene/elixirstatus-web.svg?branch=master)](http://inch-ci.org/github/rrrene/elixirstatus-web)
+
 # Elixir/Phoenix Chat Application
 
  This is my first project using the framework Phoenix. The aim is to do an Chat application.
