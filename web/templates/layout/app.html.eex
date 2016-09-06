@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+mi<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9,6 +9,10 @@
 
     <title>Hello Chatapp!</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
+    <script type="text/javascript" src="/js/phoenix.js"></script>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+
+    
   </head>
 
   <body>
