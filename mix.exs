@@ -1,5 +1,10 @@
 defmodule Chatapp.Mixfile do
   use Mix.Project
+  
+  defp deps do
+  [{:ecto, "~> 1.0"},
+   {:postgrex, ">= 0.0.0"}]
+end
 
   def project do
     [app: :chatapp,
