@@ -26,8 +26,10 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Source: https://github.com/phoenixframework/phoenix
 
 
-Thanks!
 
-Twitter
-Medium
-Linkedin
+Thanks!
+Neno Almeida.
+
+[Twiter](https://twitter.com/neniisky)
+[Linkedin](https://br.linkedin.com/in/nenoalmeida)
+[Medium](https://medium.com/@nenoalmeida)
