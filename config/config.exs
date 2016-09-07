@@ -5,6 +5,14 @@
 # is restricted to this project.
 use Mix.Config
 
+config :chatapp, Chatapp.Repo,
+  adapter: Ecto.Adapters.Postgres,
+  database: "chatapp_repo",
+  username: "postgres",
+  password: "postgres",
+  hostname: "localhost"
+  
+
 # General application configuration
 config :chatapp,
   ecto_repos: [Chatapp.Repo]
