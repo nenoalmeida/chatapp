@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/neelamshah02/ChatApp.svg?branch=master)](https://travis-ci.org/neelamshah02/ChatApp)
+[![Build Status](https://travis-ci.org/nenoalmeida/chatapp.svg?branch=master)](https://travis-ci.org/nenoalmeida/chatapp)
 [![Inline docs](http://inch-ci.org/github/rrrene/elixirstatus-web.svg?branch=master)](http://inch-ci.org/github/rrrene/elixirstatus-web)
 
 # Elixir/Phoenix Chat Application
