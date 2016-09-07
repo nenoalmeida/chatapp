@@ -3,7 +3,7 @@
 
 # Elixir/Phoenix Chat Application
 
- This is my first project using the framework Phoenix. The aim is to do an Chat application.
+ This is my first project using the framework Phoenix. The aim is to do an Chat Application.
 
 
 To start your Phoenix app:
