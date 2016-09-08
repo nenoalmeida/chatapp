@@ -1,4 +1,3 @@
-
 [![Build Status](https://travis-ci.org/nenoalmeida/chatapp.svg?branch=master)](https://travis-ci.org/nenoalmeida/chatapp)
 [![Inline docs](http://inch-ci.org/github/rrrene/elixirstatus-web.svg?branch=master)](http://inch-ci.org/github/rrrene/elixirstatus-web)
 
@@ -15,8 +14,6 @@ To start your Phoenix app:
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Install Node.js dependencies with `npm install`
   * Start Phoenix endpoint with `mix phoenix.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 
 ## Learn more
