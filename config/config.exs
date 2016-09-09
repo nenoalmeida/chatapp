@@ -7,9 +7,9 @@ use Mix.Config
 
 config :chatapp, Chatapp.Repo,
   adapter: Ecto.Adapters.Postgres,
-  database: "chatapp_repo",
+  database: "elixir",
   username: "postgres",
-  password: "postgres",
+  password: "test",
   hostname: "localhost"
   
 
