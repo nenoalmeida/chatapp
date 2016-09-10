@@ -53,4 +53,9 @@ defmodule Chatapp.Mixfile do
      "ecto.reset": ["ecto.drop", "ecto.setup"],
      "test": ["ecto.create --quiet", "ecto.migrate", "test"]]
   end
+  defp deps do
+  [
+    {:credo, "~> 0.4", only: [:dev, :test]}
+  ]
+end
 end
