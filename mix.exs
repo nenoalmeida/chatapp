@@ -41,6 +41,9 @@ defmodule Chatapp.Mixfile do
   end
     defp deps do
         [{:inch_ex, only: :docs}]
+        [
+    {:credo, "~> 0.4", only: [:dev, :test]}
+  ]
     end
   # Aliases are shortcuts or tasks specific to the current project.
   # For example, to create, migrate and run the seeds file at once:
@@ -53,9 +56,4 @@ defmodule Chatapp.Mixfile do
      "ecto.reset": ["ecto.drop", "ecto.setup"],
      "test": ["ecto.create --quiet", "ecto.migrate", "test"]]
   end
-  defp deps do
-  [
-    {:credo, "~> 0.4", only: [:dev, :test]}
-  ]
-end
 end
