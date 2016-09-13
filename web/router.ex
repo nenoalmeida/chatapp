@@ -1,6 +1,7 @@
 defmodule Chatapp.Router do
   use Chatapp.Web, :router
-
+  use Chatapp.Web, :router
+  
   pipeline :browser do
     plug :accepts, ["html"]
     plug :fetch_session
@@ -24,3 +25,4 @@ defmodule Chatapp.Router do
   #   pipe_through :api
   # end
 end
+
