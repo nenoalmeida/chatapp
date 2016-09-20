@@ -5,7 +5,7 @@
 
 ## Synopsis:
 
- This is my first project using the framework Phoenix. The aim is to do a Chat Application who will be used to interact with people.
+     This is my first project using the framework Phoenix. The aim is to do a Chat Application who will be used to interact with people.
 If you want to contribute with this project feel free to do this. 
 
 
